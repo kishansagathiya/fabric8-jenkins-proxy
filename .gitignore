@@ -1,7 +1,6 @@
 # Build artifacts
 vendor
 tools.timestamp
-out
 scripts/siege/logins.txt
 scripts/siege/urls.txt
 scripts/config
